@@ -1,4 +1,4 @@
-almaz-mymeds
+almaz-mymed
 
 1. Purpose statement for the mobile app
     The purpose of the mobile app is for people to document their medication list with all the information about the        medication. 
